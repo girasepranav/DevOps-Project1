@@ -4,9 +4,9 @@
   <modelVersion>4.0.0</modelVersion>
 
 <plugin>
- <groupId>org.apache.maven.plugins</groupId>
- <artifactId>maven-resources-plugin</artifactId>
- <version>3.2.0</version>
+ <groupId>com.example.maven-project</groupId>
+ <artifactId>maven-project</artifactId>
+ <version>3.6</version>
  <configuration>
  <encoding>UTF-8</encoding>
  </configuration>
